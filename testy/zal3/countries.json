@@ -1,0 +1,14 @@
+[
+    {
+        "country": "Poland",
+        "surface": 10000,
+        "population": 20000,
+        "households with running water": 99,
+        "people old than 100": 100
+    },
+    {
+        "country": "Peru",
+        "surface": 100,
+        "population": 1000
+    }
+]
